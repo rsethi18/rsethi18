@@ -33,7 +33,7 @@ My work and research focus on building AI-powered solutions to real-world proble
 
 ## Connect With Me
 <a href="https://linkedin.com/in/ranavsethi" style="margin-right: 20px;">
-  <img src="./linkedin (1).png" width="40px">
+  <img src="./linkedin-logo.png" width="40px">
 </a>
 <a href="https://ranavsethi.com" style="margin-right: 20px;">
   <img src="./link.png" width="40px">
