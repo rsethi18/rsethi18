@@ -1,15 +1,45 @@
-## Hi there 👋
-<!--
-**rsethi18/rsethi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me <img align="right" src="./cat.gif" width="200" />
 
-Here are some ideas to get you started:
+Hi, I'm Ranav Sethi, a student at Purdue University studying artificial intelligence and psychology. I am highly interested in Natural Language Processing and Reinforcement Learning, with a broader fascination for modeling human cognition and interactions as a whole.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My work and research focus on building AI-powered solutions to real-world problems, utilising AI as a tool for equity instead of exclusivity.
+
+
+ ## Skills & Technologies
+
+<!-- ML -->
+![PyTorch](https://img.shields.io/badge/PyTorch-81A1C1?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-81A1C1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-81A1C1?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-81A1C1?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-81A1C1?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-81A1C1?style=for-the-badge)
+
+<!-- Data Science -->
+![NumPy](https://img.shields.io/badge/NumPy-88C0D0?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-88C0D0?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-88C0D0?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-88C0D0?style=for-the-badge)
+
+<!-- Web & Backend -->
+![React](https://img.shields.io/badge/React-5E81AC?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-5E81AC?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-5E81AC?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E81AC?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Cloud -->
+![Azure](https://img.shields.io/badge/Azure-4C566A?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4C566A?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Connect With Me
+<a href="https://linkedin.com/in/ranavsethi" style="margin-right: 20px;">
+  <img src="./linkedin (1).png" width="40px">
+</a>
+<a href="https://ranavsethi.com" style="margin-right: 20px;">
+  <img src="./link.png" width="40px">
+</a>
+<a href="mailto:ranavsethi18@gmail.com">
+  <img src="./paper-plane.png" width="40px">
+</a>
+
 -->
