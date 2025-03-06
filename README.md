@@ -22,7 +22,7 @@ My work and research focus on building AI-powered solutions to real-world proble
 ![Seaborn](https://img.shields.io/badge/Seaborn-88C0D0?style=for-the-badge)
 
 <!-- Web & Backend -->
-![React](https://img.shields.io/badge/React-5E81AC?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-5E81AC?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-5E81AC?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-5E81AC?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E81AC?style=for-the-badge&logo=postgresql&logoColor=white)
