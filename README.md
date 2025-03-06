@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<span style="color:#88C0D0">This is Nord Blue</span>
 <!--
 **rsethi18/rsethi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
