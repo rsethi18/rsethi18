@@ -32,10 +32,10 @@ My work and research focus on building AI-powered solutions to real-world proble
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4C566A?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Connect With Me
-<a href="https://linkedin.com/in/ranavsethi" style="margin-right: 20;">
+<a href="https://linkedin.com/in/ranavsethi" style="margin-right: 20px;">
   <img src="./linkedin-logo.png" width="40px">
 </a>
-<a href="https://ranavsethi.com" style="margin-right: 20;">
+<a href="https://ranavsethi.com" style="margin-right: 20px;">
   <img src="./link.png" width="40px">
 </a>
 <a href="mailto:ranavsethi18@gmail.com">
