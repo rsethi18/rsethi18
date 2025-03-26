@@ -1,4 +1,5 @@
-## About Me <img align="right" src="./media/cat.gif" width="200" />
+## About Me
+<img src="./media/husky.png" alt="Husky" align="right" width="200" />
 
 Hi, I'm Ranav Sethi, a student at Purdue University studying artificial intelligence and psychology. I am highly interested in Natural Language Processing and Reinforcement Learning, with a broader fascination for modeling human cognition and interactions as a whole.
 
