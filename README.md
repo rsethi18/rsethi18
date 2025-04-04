@@ -31,8 +31,8 @@ My work and research focus on building AI-powered solutions to real-world proble
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E81AC?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- Cloud -->
-![Azure](https://img.shields.io/badge/Azure-4C566A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4C566A?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4C566A?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Connect With Me
 <a href="https://linkedin.com/in/ranavsethi">
